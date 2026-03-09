@@ -1,5 +1,5 @@
-organization,country,city,url,notes
-NTNU,Norway,,https://www.ntnu.edu/vacancies,HTML page
-Chalmers,Sweden,,https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/,HTML page
-KTH,Sweden,,https://www.kth.se/lediga-jobb?l=en,HTML page
-Aalborg University,Denmark,,https://www.vacancies.aau.dk/scientific-positions,HTML page but may need refinement
+organization,country,city,url
+NTNU,Norway,,https://www.ntnu.edu/vacancies
+Chalmers,Sweden,,https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/
+KTH,Sweden,,https://www.kth.se/lediga-jobb?l=en
+Aalborg University,Denmark,,https://www.vacancies.aau.dk/scientific-positions
