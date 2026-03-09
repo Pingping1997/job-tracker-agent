@@ -1,5 +1,5 @@
-from .js_scraper import GenericJSScraper
+from .hub_scraper import GenericHubScraper
 
 
-class ChalmersScraper(GenericJSScraper):
+class AalborgScraper(GenericHubScraper):
     pass
