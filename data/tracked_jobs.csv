@@ -1,17 +1,46 @@
 first_seen,last_seen,organization,title,location,posted_date,matched_keywords,relevance_score,url
-2026-03-09 15:26:27,2026-03-09 16:21:33,Aalborg University,Career options,,,,0,https://www.vacancies.aau.dk/scientific-positions/career-options
-2026-03-09 15:26:27,2026-03-09 16:21:33,Aalborg University,PhD positions,,,,0,https://www.vacancies.aau.dk/phd-positions
-2026-03-09 15:26:27,2026-03-09 16:21:33,Aalborg University,PhD Schools,,,,0,https://www.vacancies.aau.dk/phd-positions/phd-schools
-2026-03-09 15:26:27,2026-03-09 16:21:33,Aalborg University,Career options,,,,0,https://www.vacancies.aau.dk/phd-positions/career-options
-2026-03-09 15:26:27,2026-03-09 16:21:33,Aalborg University,Technical or administrative positions,,,,0,https://www.vacancies.aau.dk/technical-and-administrative-positions
-2026-03-09 15:26:27,2026-03-09 16:21:33,Aalborg University,Career options,,,,0,https://www.vacancies.aau.dk/technical-and-administrative-positions/career-options
-2026-03-09 15:26:27,2026-03-09 16:21:33,Aalborg University,For students,,,,0,https://www.students.aau.dk
-2026-03-09 15:26:27,2026-03-09 16:21:33,Aalborg University,For PhDs,,,,0,https://www.en.aau.dk/research/phd
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Doctoral student in Sustainable Metallurgy: Slag Design & Refractories,,,sustainable,3,https://www.kth.se/lediga-jobb/898070?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:33,Aalborg University,Vacant positions at Aalborg University,,,,0,https://www.vacancies.aau.dk/
-2026-03-09 15:26:26,2026-03-09 16:21:33,Aalborg University,Scientific positions,,,,0,https://www.vacancies.aau.dk/scientific-positions
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Research,,,,0,https://www.kth.se/en/forskning
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Search the Student web,,,,0,https://www.kth.se/en/student/search
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in CFD simulation of Carbon Capture and Utilisation,,,"carbon, carbon capture",6,https://www.kth.se/lediga-jobb/910180?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in Collaboration for efficient and sustainable infrastructure development,,,sustainable,3,https://www.kth.se/lediga-jobb/908195?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in Production Systems Modelling,,,systems modelling,2,https://www.kth.se/lediga-jobb/913027?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Postdoc in Theoreical Chemistry,,,,0,https://www.kth.se/lediga-jobb/912693?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in the joint KTH-KI PhD program in Medical Technology,,,,0,https://www.kth.se/lediga-jobb/906337?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in Software Engineering,,,,0,https://www.kth.se/lediga-jobb/909759?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in advanced machining – machine tools & control system,,,,0,https://www.kth.se/lediga-jobb/912995?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in Precision robotics and control,,,,0,https://www.kth.se/lediga-jobb/912996?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Researcher (parental leave position)Therapeutic Protein Engineering at the DDD platform,,,,0,https://www.kth.se/lediga-jobb/911657?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Postdoc in Spatial Transcriptomics data analysis.,,,,0,https://www.kth.se/lediga-jobb/912263?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in Crystallization of Critical Raw Materials,,,,0,https://www.kth.se/lediga-jobb/903045?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in Bio-graphene via catalytic graphitization for Li–S,,,,0,https://www.kth.se/lediga-jobb/904152?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in visual analytics of cyber-physical systems,,,,0,https://www.kth.se/lediga-jobb/907488?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in Computer Science - Verified Microarchitectural Security,,,,0,https://www.kth.se/lediga-jobb/907809?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in modeling of W and W alloys for additive manufacturing,,,,0,https://www.kth.se/lediga-jobb/908131?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in Molecular Genomics,,,,0,https://www.kth.se/lediga-jobb/909005?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in Agentic LLM for Transport Planning,,,,0,https://www.kth.se/lediga-jobb/909278?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in   Chemistry with specialization in Nuclear Chemistry,,,,0,https://www.kth.se/lediga-jobb/910051?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student (licentiate) in soil and rock mechanics (piling),,,,0,https://www.kth.se/lediga-jobb/909260?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral (Licentiate) student in Transport Science,,,,0,https://www.kth.se/lediga-jobb/908540?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Postdoc in Computational Biology of Human Tissue Architecture,,,,0,https://www.kth.se/lediga-jobb/912839?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,"Doctoral student in space plasma physics, plasma measurements around planet Mercury",,,,0,https://www.kth.se/lediga-jobb/907179?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in Robotics and geometric machine learning,,,,0,https://www.kth.se/lediga-jobb/908490?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in Material and Structural Mechanics,,,,0,https://www.kth.se/lediga-jobb/908344?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in Material and Structural Mechanics,,,,0,https://www.kth.se/lediga-jobb/908377?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in reinforcement Learning in Agent-based models,,,,0,https://www.kth.se/lediga-jobb/910703?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in generative AI for humanoid assistive robots,,,,0,https://www.kth.se/lediga-jobb/907457?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in Numerical Methods for Functional Calculus,,,,0,https://www.kth.se/lediga-jobb/904789?l=en
+2026-03-16 07:31:38,2026-03-16 07:31:38,KTH,Doctoral student in machining with a focus on process & functional surfaces,,,,0,https://www.kth.se/lediga-jobb/913002?l=en
+2026-03-09 15:26:27,2026-03-16 07:31:53,Aalborg University,Career options,,,,0,https://www.vacancies.aau.dk/scientific-positions/career-options
+2026-03-09 15:26:27,2026-03-16 07:31:53,Aalborg University,PhD positions,,,,0,https://www.vacancies.aau.dk/phd-positions
+2026-03-09 15:26:27,2026-03-16 07:31:53,Aalborg University,PhD Schools,,,,0,https://www.vacancies.aau.dk/phd-positions/phd-schools
+2026-03-09 15:26:27,2026-03-16 07:31:53,Aalborg University,Career options,,,,0,https://www.vacancies.aau.dk/phd-positions/career-options
+2026-03-09 15:26:27,2026-03-16 07:31:53,Aalborg University,Technical or administrative positions,,,,0,https://www.vacancies.aau.dk/technical-and-administrative-positions
+2026-03-09 15:26:27,2026-03-16 07:31:53,Aalborg University,Career options,,,,0,https://www.vacancies.aau.dk/technical-and-administrative-positions/career-options
+2026-03-09 15:26:27,2026-03-16 07:31:53,Aalborg University,For students,,,,0,https://www.students.aau.dk
+2026-03-09 15:26:27,2026-03-16 07:31:53,Aalborg University,For PhDs,,,,0,https://www.en.aau.dk/research/phd
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Doctoral student in Sustainable Metallurgy: Slag Design & Refractories,,,sustainable,3,https://www.kth.se/lediga-jobb/898070?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:53,Aalborg University,Vacant positions at Aalborg University,,,,0,https://www.vacancies.aau.dk/
+2026-03-09 15:26:26,2026-03-16 07:31:53,Aalborg University,Scientific positions,,,,0,https://www.vacancies.aau.dk/scientific-positions
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Research,,,,0,https://www.kth.se/en/forskning
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Search the Student web,,,,0,https://www.kth.se/en/student/search
 2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Postdoc in atmospheric turbulence,,,,0,https://www.kth.se/lediga-jobb/904326?l=en
 2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,"Doctoral student in Generative Modeling, Super Resolution of Brain Imaging",,,,0,https://www.kth.se/lediga-jobb/899298?l=en
 2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Doctoral student in Generative Modeling of Biomolecules,,,,0,https://www.kth.se/lediga-jobb/899309?l=en
@@ -27,53 +56,53 @@ first_seen,last_seen,organization,title,location,posted_date,matched_keywords,re
 2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Postdoc in Nuclear Power Safety,,,,0,https://www.kth.se/lediga-jobb/899117?l=en
 2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Doctoral students in Learning and Control of Networked CPHS,,,,0,https://www.kth.se/lediga-jobb/900491?l=en
 2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,"Research Engineer in Robotics, Perception and Learning",,,,0,https://www.kth.se/lediga-jobb/910843?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Postdoc in methods for technical implementation of circular networks,,,,0,https://www.kth.se/lediga-jobb/905949?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Postdoc in methods for technical implementation of circular networks,,,,0,https://www.kth.se/lediga-jobb/905949?l=en
 2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Postdoc in sonic interaction design for sleep technology,,,,0,https://www.kth.se/lediga-jobb/904526?l=en
 2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Doctoral student in Distributed Computing,,,,0,https://www.kth.se/lediga-jobb/900111?l=en
 2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Doctoral students in Human Computer Interaction for XR in education and industry,,,,0,https://www.kth.se/lediga-jobb/901401?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Researcher in AI and Digitalization of Future Power Systems,,,,0,https://www.kth.se/lediga-jobb/906183?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Postdoctoral researcher in underwater communication,,,,0,https://www.kth.se/lediga-jobb/904319?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Doctoral student in  Nuclear Power Safety,,,,0,https://www.kth.se/lediga-jobb/894652?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Postdoc in Algebraic Geometry,,,,0,https://www.kth.se/lediga-jobb/902380?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Assistant professor in NMR spectroscopy with specialization in materials chemistry,,,,0,https://www.kth.se/lediga-jobb/875645?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Postdoctors in Nuclear Engineering,,,,0,https://www.kth.se/lediga-jobb/886403?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Postdoc in Nuclear Engineering,,,,0,https://www.kth.se/lediga-jobb/874734?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Research Engineer in AI-driven predictive maintenance for buildings,,,,0,https://www.kth.se/lediga-jobb/907919?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Doctoral student in soil and rock mechanics,,,,0,https://www.kth.se/lediga-jobb/896310?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Doctoral student polymeric materials in nuclear power plants,,,,0,https://www.kth.se/lediga-jobb/897238?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Doctoral student in material physics and non-destructive diagnostics of polymers,,,,0,https://www.kth.se/lediga-jobb/897278?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Doctoral student in Material Science,,,,0,https://www.kth.se/lediga-jobb/898543?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Doctoral student (Licentiate) in Engineering Materials Science,,,,0,https://www.kth.se/lediga-jobb/898564?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Doctoral student in Turbomachinery and fluid mechanics,,,,0,https://www.kth.se/lediga-jobb/898984?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Postdoc in wireless communications,,,,0,https://www.kth.se/lediga-jobb/903854?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Postdoc in joint sensing and underwater communication,,,,0,https://www.kth.se/lediga-jobb/909777?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Doctoral student in technology foresight and digital skills forecasting,,,,0,https://www.kth.se/lediga-jobb/903300?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Postdoc in Safe Robot Planning,,,,0,https://www.kth.se/lediga-jobb/911111?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Doctoral student in Experimental Fluid Mechanics & Artificial Intelligence,,,,0,https://www.kth.se/lediga-jobb/898147?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Doctoral student in Theoretical Condensed Matter Physics,,,,0,https://www.kth.se/lediga-jobb/880357?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Postdoc in quantum algorithms for machine learning,,,,0,https://www.kth.se/lediga-jobb/905700?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Postdocs in wireless communications,,,,0,https://www.kth.se/lediga-jobb/905758?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Postdoc in generative AI for humanoid assistive robots,,,,0,https://www.kth.se/lediga-jobb/909261?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Assistant professor in Data driven cell and molecular biology,,,,0,https://www.kth.se/lediga-jobb/891334?l=en
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Vacancies as RSS,,,,0,https://www.kth.se/lediga-jobb/rss/
-2026-03-09 15:26:26,2026-03-09 16:21:19,KTH,Student at KTH,,,,0,https://www.kth.se/en/student
-2026-03-09 15:26:24,2026-03-09 16:21:33,Chalmers,research Meet our scientists,,,,0,https://www.chalmers.se/en/research/meet-our-scientists/
-2026-03-09 15:26:24,2026-03-09 16:21:33,Chalmers,Student support,,,,0,https://www.chalmers.se/en/education/student-support/
-2026-03-09 15:26:24,2026-03-09 16:21:33,Chalmers,Chalmers student union,,,,0,https://chalmersstudentkar.se/
-2026-03-09 15:26:23,2026-03-09 16:21:20,NTNU,For exchange students,,,,0,https://www.ntnu.edu/studies/exchange
-2026-03-09 15:26:23,2026-03-09 16:21:20,NTNU,PhD opportunities,,,,0,https://www.ntnu.edu/phd
-2026-03-09 15:26:23,2026-03-09 16:21:20,NTNU,Research and innovation,,,,0,https://www.ntnu.edu/vacancies
-2026-03-09 15:26:23,2026-03-09 16:21:20,NTNU,NTNU research,,,,0,https://www.ntnu.edu/research
-2026-03-09 15:26:23,2026-03-09 16:21:20,NTNU,Research excellence,,,,0,https://www.ntnu.edu/research/research-excellence
-2026-03-09 15:26:23,2026-03-09 16:21:20,NTNU,Strategic research areas,,,,0,https://www.ntnu.edu/research/strategicareas
-2026-03-09 15:26:23,2026-03-09 16:21:20,NTNU,Student in Trondheim,,,,0,https://www.ntnu.edu/lifeandhousing/trondheim
-2026-03-09 15:26:23,2026-03-09 16:21:20,NTNU,Student in Gjøvik,,,,0,https://www.ntnu.edu/lifeandhousing/gjovik
-2026-03-09 15:26:23,2026-03-09 16:21:20,NTNU,Student in Ålesund,,,,0,https://www.ntnu.edu/lifeandhousing/alesund
-2026-03-09 15:26:23,2026-03-09 16:21:20,NTNU,For researchers,,,,0,https://www.ntnu.edu/nirs
-2026-03-09 15:26:23,2026-03-09 16:21:20,NTNU,For students,,,,0,https://i.ntnu.no/en/student
-2026-03-09 15:26:23,2026-03-09 16:21:20,NTNU,Career development,,,,0,https://www.ntnu.edu/career
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Researcher in AI and Digitalization of Future Power Systems,,,,0,https://www.kth.se/lediga-jobb/906183?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Postdoctoral researcher in underwater communication,,,,0,https://www.kth.se/lediga-jobb/904319?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Doctoral student in  Nuclear Power Safety,,,,0,https://www.kth.se/lediga-jobb/894652?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Postdoc in Algebraic Geometry,,,,0,https://www.kth.se/lediga-jobb/902380?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Assistant professor in NMR spectroscopy with specialization in materials chemistry,,,,0,https://www.kth.se/lediga-jobb/875645?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Postdoctors in Nuclear Engineering,,,,0,https://www.kth.se/lediga-jobb/886403?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Postdoc in Nuclear Engineering,,,,0,https://www.kth.se/lediga-jobb/874734?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Research Engineer in AI-driven predictive maintenance for buildings,,,,0,https://www.kth.se/lediga-jobb/907919?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Doctoral student in soil and rock mechanics,,,,0,https://www.kth.se/lediga-jobb/896310?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Doctoral student polymeric materials in nuclear power plants,,,,0,https://www.kth.se/lediga-jobb/897238?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Doctoral student in material physics and non-destructive diagnostics of polymers,,,,0,https://www.kth.se/lediga-jobb/897278?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Doctoral student in Material Science,,,,0,https://www.kth.se/lediga-jobb/898543?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Doctoral student (Licentiate) in Engineering Materials Science,,,,0,https://www.kth.se/lediga-jobb/898564?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Doctoral student in Turbomachinery and fluid mechanics,,,,0,https://www.kth.se/lediga-jobb/898984?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Postdoc in wireless communications,,,,0,https://www.kth.se/lediga-jobb/903854?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Postdoc in joint sensing and underwater communication,,,,0,https://www.kth.se/lediga-jobb/909777?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Doctoral student in technology foresight and digital skills forecasting,,,,0,https://www.kth.se/lediga-jobb/903300?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Postdoc in Safe Robot Planning,,,,0,https://www.kth.se/lediga-jobb/911111?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Doctoral student in Experimental Fluid Mechanics & Artificial Intelligence,,,,0,https://www.kth.se/lediga-jobb/898147?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Doctoral student in Theoretical Condensed Matter Physics,,,,0,https://www.kth.se/lediga-jobb/880357?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Postdoc in quantum algorithms for machine learning,,,,0,https://www.kth.se/lediga-jobb/905700?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Postdocs in wireless communications,,,,0,https://www.kth.se/lediga-jobb/905758?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Postdoc in generative AI for humanoid assistive robots,,,,0,https://www.kth.se/lediga-jobb/909261?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Assistant professor in Data driven cell and molecular biology,,,,0,https://www.kth.se/lediga-jobb/891334?l=en
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Vacancies as RSS,,,,0,https://www.kth.se/lediga-jobb/rss/
+2026-03-09 15:26:26,2026-03-16 07:31:38,KTH,Student at KTH,,,,0,https://www.kth.se/en/student
+2026-03-09 15:26:24,2026-03-16 07:31:52,Chalmers,research Meet our scientists,,,,0,https://www.chalmers.se/en/research/meet-our-scientists/
+2026-03-09 15:26:24,2026-03-16 07:31:52,Chalmers,Student support,,,,0,https://www.chalmers.se/en/education/student-support/
+2026-03-09 15:26:24,2026-03-16 07:31:52,Chalmers,Chalmers student union,,,,0,https://chalmersstudentkar.se/
+2026-03-09 15:26:23,2026-03-16 07:31:39,NTNU,For exchange students,,,,0,https://www.ntnu.edu/studies/exchange
+2026-03-09 15:26:23,2026-03-16 07:31:39,NTNU,PhD opportunities,,,,0,https://www.ntnu.edu/phd
+2026-03-09 15:26:23,2026-03-16 07:31:39,NTNU,Research and innovation,,,,0,https://www.ntnu.edu/vacancies
+2026-03-09 15:26:23,2026-03-16 07:31:39,NTNU,NTNU research,,,,0,https://www.ntnu.edu/research
+2026-03-09 15:26:23,2026-03-16 07:31:39,NTNU,Research excellence,,,,0,https://www.ntnu.edu/research/research-excellence
+2026-03-09 15:26:23,2026-03-16 07:31:39,NTNU,Strategic research areas,,,,0,https://www.ntnu.edu/research/strategicareas
+2026-03-09 15:26:23,2026-03-16 07:31:39,NTNU,Student in Trondheim,,,,0,https://www.ntnu.edu/lifeandhousing/trondheim
+2026-03-09 15:26:23,2026-03-16 07:31:39,NTNU,Student in Gjøvik,,,,0,https://www.ntnu.edu/lifeandhousing/gjovik
+2026-03-09 15:26:23,2026-03-16 07:31:39,NTNU,Student in Ålesund,,,,0,https://www.ntnu.edu/lifeandhousing/alesund
+2026-03-09 15:26:23,2026-03-16 07:31:39,NTNU,For researchers,,,,0,https://www.ntnu.edu/nirs
+2026-03-09 15:26:23,2026-03-16 07:31:39,NTNU,For students,,,,0,https://i.ntnu.no/en/student
+2026-03-09 15:26:23,2026-03-16 07:31:39,NTNU,Career development,,,,0,https://www.ntnu.edu/career
 2026-03-09 15:00:24,2026-03-09 15:16:39,Aalborg University,"Privacy policy, DPO and cookies",,,policy,2,https://www.en.aau.dk/privacy-policy-cookies
-2026-03-09 15:00:23,2026-03-09 16:21:19,KTH,Doctoral student (lic) From Behaviour to Emissions: Modeling modal shift,,,emissions,3,https://www.kth.se/lediga-jobb/899181?l=en
+2026-03-09 15:00:23,2026-03-16 07:31:38,KTH,Doctoral student (lic) From Behaviour to Emissions: Modeling modal shift,,,emissions,3,https://www.kth.se/lediga-jobb/899181?l=en
 2026-03-09 15:00:23,2026-03-09 16:21:19,KTH,Doctoral student in Optimal Transport for Optimization and Machine Learning,,,optimization,2,https://www.kth.se/lediga-jobb/877863?l=en
-2026-03-09 15:00:23,2026-03-09 16:21:19,KTH,"Postdoc in machine learning, autonomous decision-making, and optimization.",,,optimization,2,https://www.kth.se/lediga-jobb/904538?l=en
+2026-03-09 15:00:23,2026-03-16 07:31:38,KTH,"Postdoc in machine learning, autonomous decision-making, and optimization.",,,optimization,2,https://www.kth.se/lediga-jobb/904538?l=en
 2026-03-09 15:00:20,2026-03-09 15:16:37,NTNU,Privacy policy,,,policy,2,https://www.ntnu.edu/privacy
