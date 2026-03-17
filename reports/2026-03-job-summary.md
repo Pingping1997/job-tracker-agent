@@ -1,6 +1,18 @@
 # Monthly job summary
 
-Generated: 2026-03-17 17:09
+Generated: 2026-03-17 17:17
+
+## Chalmers
+
+| Title | Keywords | Score | Link |
+|---|---|---:|---|
+| Doctoral student in the political dynamics of energy transitions | energy, transition | 6 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14642&notrack=true) |
+| Doctoral student in energy systems | energy, energy systems | 5 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14668&notrack=true) |
+| Assistant or Associate Professors – Two WISE Fellows in Materials Science for a Sustainable Future | sustainable | 3 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14331&notrack=true) |
+| Doctoral student in Hydrogen Embrittlement of Metallic Materials | hydrogen | 3 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14670&notrack=true) |
+| Doctoral student in Structural Battery Electrolytes for Cold-Climate Transport | climate | 3 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14679&notrack=true) |
+| Doctoral student position in modeling polarons in emerging energy materials | energy | 3 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14444&notrack=true) |
+| Postdoc in Data-driven Modelling and Optimisation for Fast Charging of Lithium-Ion Batteries | optimisation | 2 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14691&notrack=true) |
 
 ## KTH
 
