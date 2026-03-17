@@ -8,6 +8,7 @@ from scrapers import (
     NTNUScraper,
     ChalmersScraper,
     AalborgScraper,
+    IAEAScraper,
     GenericHtmlScraper,
     GenericHubScraper,
     GenericJSScraper,
@@ -26,6 +27,8 @@ def get_scraper(source: dict):
         return ChalmersScraper(source)
     if org == "Aalborg University":
         return AalborgScraper(source)
+    if org == "IAEA":
+        return IAEAScraper(source)
 
     if source_type == "html":
         return GenericHtmlScraper(source)
