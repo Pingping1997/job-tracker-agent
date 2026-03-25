@@ -10,7 +10,9 @@ from .ramboll import RambollScraper
 from .ait import AITScraper
 from .csh import CSHScraper
 from .iiasa import IIASAScraper
+from .pbl import PBLScraper
 from .dtu_oracle import DTUOracleScraper
+from .sdu_oracle import SDUOracleScraper
 from .html_scraper import GenericHtmlScraper
 from .hub_scraper import GenericHubScraper
 from .js_scraper import GenericJSScraper

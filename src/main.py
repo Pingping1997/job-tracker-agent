@@ -17,6 +17,7 @@ from scrapers import (
     CSHScraper,
     IIASAScraper,
     DTUOracleScraper,
+    SDUOracleScraper,
     GenericHtmlScraper,
     GenericHubScraper,
     GenericJSScraper,
@@ -28,6 +29,7 @@ def get_scraper(source: dict):
     source_type = source.get("source_type", "html")
 
     if org == "KTH":
+    PBLScraper,
         return KTHScraper(source)
     if org == "NTNU":
         return NTNUScraper(source)
@@ -42,6 +44,8 @@ def get_scraper(source: dict):
     if org == "RMI":
         return RMIScraper(source)
     if org == "Careers@Gov":
+    if org == "Planbureau voor de Leefomgeving":
+        return PBLScraper(source)
         return CareersGovScraper(source)
     if org == "Ramboll":
         return RambollScraper(source)
@@ -53,6 +57,8 @@ def get_scraper(source: dict):
         return IIASAScraper(source)
     if org == "DTU":
         return DTUOracleScraper(source)
+    if org == "SDU":
+        return SDUOracleScraper(source)
 
     if source_type == "html":
         return GenericHtmlScraper(source)
