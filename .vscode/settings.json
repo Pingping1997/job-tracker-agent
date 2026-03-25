@@ -1,0 +1,5 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/Users/davide.prette/repo/job-tracker-agent/.venv/bin/python": true
+    }
+}

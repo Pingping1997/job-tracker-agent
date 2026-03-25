@@ -9,6 +9,7 @@ from scrapers import (
     ChalmersScraper,
     AalborgScraper,
     IAEAScraper,
+    OECDIEAScraper,
     GenericHtmlScraper,
     GenericHubScraper,
     GenericJSScraper,
@@ -29,6 +30,8 @@ def get_scraper(source: dict):
         return AalborgScraper(source)
     if org == "IAEA":
         return IAEAScraper(source)
+    if org == "OECD IEA":
+        return OECDIEAScraper(source)
 
     if source_type == "html":
         return GenericHtmlScraper(source)
