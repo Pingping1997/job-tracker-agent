@@ -1,6 +1,6 @@
 # Monthly job summary
 
-Generated: 2026-03-25 13:47
+Generated: 2026-03-25 14:06
 
 ## AIT
 
@@ -68,6 +68,48 @@ Generated: 2026-03-25 13:47
 | Doctoral student position in modeling polarons in emerging energy materials | energy | 3 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14444&notrack=true) |
 | Postdoc in Data-driven Modelling and Optimisation for Fast Charging of Lithium-Ion Batteries | optimisation | 2 | [Open](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&job_id=14691&notrack=true) |
 
+## DTU
+
+| Title | Keywords | Score | Link |
+|---|---|---:|---|
+| Postdoc in Environmental Economics and Carbon Capture and Storage (CCS) Acceptance - DTU Management | energy, climate, carbon, ccs, carbon capture | 17 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7012) |
+| Two PhD Scholarships in Privacy-Preserving Data Sharing for Future Energy Systems - DTU Wind | energy, carbon, energy systems, transition | 9 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6833) |
+| PhD scholarship in university students’ learning via digital twins of neutron scattering instruments - DTU Energy | energy, dac | 8 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6824) |
+| Postdoc in Development of high-performance Power Converters and Drives with Edge computing and Machine Learning capabilities - DTU Wind | energy, energy systems, transition | 8 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7045) |
+| DTU Tenure Track Assistant Professor in Decision Analytics for Wind Energy Operations - DTU Wind | energy, energy systems, optimisation | 7 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7008) |
+| DTU Tenure Track Assistant Professor in Wind Farm Flows - DTU Wind | energy, transition | 6 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7056) |
+| PhD scholarship in Synthetic Metabolism for Extending the Metabolic Landscape of Bacterial Cell Factories - BRIGHT | energy, sustainable | 6 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6998) |
+| Postdoc in High‑fidelity Modelling and Experimental–numerical Correlation - DTU Wind | energy, sustainable | 6 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7085) |
+| Postdoc in STS and Energy - DTU Management | energy, transition | 6 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6912) |
+| Postdoc in lignin enzymology for sustainable batteries - DTU Bioengineering | sustainable, transition | 6 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6993) |
+| Postdoc positions for N2 and/or CO2 Conversion by Hydrogenation into useful Chemicals using Thermal Heterogeneous Catalysis - DTU Physics | co2, hydrogen | 6 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6815) |
+| Scientific Software Developer – FAIR and Interoperable Workflows for Accelerated Materials Discovery - DTU Energy | energy, transition | 6 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7068) |
+| Senior Advisor in Wind Energy Science - DTU Wind | energy, sustainable | 6 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6917) |
+| Postdoc in Digital Twins and Software for Wind Turbine Blades - DTU Wind | energy, energy systems | 5 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7086) |
+| PhD scholarship in Synthetic Biology for assimilation of sustainable C1 feedstocks - BRIGHT | carbon, sustainable | 4 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7013) |
+| PhD Scholarships in Water and Electrolyte Thermodynamics - DTU Chemical Engineering | energy | 3 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6802) |
+| PhD scholarship in Energy-efficient Frequency Comb Technology – DTU Electro | energy | 3 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7005) |
+| PhD scholarship in Focusing Neutron Optics - DTU Energy | energy | 3 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7052) |
+| PhD scholarship in Machine Learning-Accelerated Reaction Mechanism Discovery - DTU Energy | energy | 3 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7019) |
+| PhD scholarship in Molecular Thermodynamics for CO2 Storage Simulations - DTU Chemical Engineering | co2 | 3 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6961) |
+| PhD scholarship in Next-Gen Microbial Vitamin Biofortification for Plant-Based Applications - part of a MSCA Doctoral Network on micronutrients in sustainable and nutritious diet - DTU Food | sustainable | 3 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6871) |
+| PhD scholarship in analytical chemistry and mineral accessibility in plant-based foods - part of a MSCA Doctoral Network on micronutrients in sustainable and nutritious diet - DTU Food | sustainable | 3 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6870) |
+| PhD scholarship in vitamin D - part of a MSCA Doctoral Network on micronutrients in sustainable and nutritious diet - DTU Food | sustainable | 3 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6869) |
+| Postdoc in Water Thermodynamics - DTU Chemical Engineering | energy | 3 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6986) |
+| Postdoc in digital twins for neutron scattering methods - DTU Energy | energy | 3 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6967) |
+| Postdoc in extraordinary magnetometry using high-mobility semiconductors - DTU Energy | energy | 3 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6968) |
+| Professor in Ceramic Processing of Energy Materials - DTU Energy | energy | 3 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6927) |
+| Strategic PhD scholarship in Physics-Informed Artificial Intelligence for Thermal Energy Storage - DTU Construct | energy | 3 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7067) |
+| PhD scholarship in Advanced Waste Modelling and Framework Development - DTU Sustain | lca | 2 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7072) |
+| PhD scholarship in 3D Carbon Micro- and Nanoelectrodes Enabling Biomarker Detection by Redox Amplification and Dielectrophoresis - DTU Nanolab | carbon | 1 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7002) |
+| Postdoc in Advanced Structural Characterization of Single-Molecule Adsorption in Nanoporous Materials - DTU Nanolab | carbon | 1 | [Open](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6671) |
+
+## IIASA
+
+| Title | Keywords | Score | Link |
+|---|---|---:|---|
+| Research Scholar/Modeler – Global Land Carbon Cycle and Land Use Change | carbon | 1 | [Open](https://iiasa.onlyfy.jobs/job/shod3vsg3z5c5jgaatfx59kc4qyw5kd) |
+
 ## KTH
 
 | Title | Keywords | Score | Link |
@@ -99,8 +141,11 @@ Generated: 2026-03-25 13:47
 
 | Title | Keywords | Score | Link |
 |---|---|---:|---|
+| Senior Electrical Engineer for design of future green energy systems | energy, carbon, carbon capture, sustainable, energy systems | 14 | [Open](https://www.ramboll.com/careers/17075934-c966-4220-8d61-08de88a9bfc7) |
+| Senior Electrical Engineer for design of future green energy systems | energy, carbon, carbon capture, sustainable, energy systems | 14 | [Open](https://www.ramboll.com/careers/28c93438-f25e-4d1b-8d62-08de88a9bfc7) |
 | Senior Engineer – Tech Safety (QRA & Loss Prevention) - Chennai | energy, hydrogen, sustainable | 9 | [Open](https://www.ramboll.com/careers/010d65e0-16d3-459b-8d5e-08de88a9bfc7) |
 | Student Assistant – Project Support, Power Systems | energy, sustainable, energy systems | 8 | [Open](https://www.ramboll.com/careers/50c64793-79c6-43d0-8d3f-08de88a9bfc7) |
+| Senior Acoustic Consultant | energy, sustainability, sustainable | 7 | [Open](https://www.ramboll.com/careers/98bb7f08-4500-4552-8d63-08de88a9bfc7) |
 | Senior Highways Design Engineer | energy, sustainability, sustainable | 7 | [Open](https://www.ramboll.com/careers/334e76a5-9ee1-4402-70eb-08de7b70100b) |
 | Senior HR Business Partner (m/f/d)– Maternity Cover- until April 2027 | energy, sustainable | 6 | [Open](https://www.ramboll.com/careers/93272fe3-7de3-4175-7105-08de7b70100b) |
 | Intern- Buildings | carbon, sustainable | 4 | [Open](https://www.ramboll.com/careers/d1d2fec8-b210-4fcf-8d40-08de88a9bfc7) |

@@ -15,6 +15,8 @@ from scrapers import (
     RambollScraper,
     AITScraper,
     CSHScraper,
+    IIASAScraper,
+    DTUOracleScraper,
     GenericHtmlScraper,
     GenericHubScraper,
     GenericJSScraper,
@@ -47,6 +49,10 @@ def get_scraper(source: dict):
         return AITScraper(source)
     if org == "CSH":
         return CSHScraper(source)
+    if org == "IIASA":
+        return IIASAScraper(source)
+    if org == "DTU":
+        return DTUOracleScraper(source)
 
     if source_type == "html":
         return GenericHtmlScraper(source)
