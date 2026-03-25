@@ -9,6 +9,15 @@ from scrapers import (
     ChalmersScraper,
     AalborgScraper,
     IAEAScraper,
+    OECDIEAScraper,
+    RMIScraper,
+    CareersGovScraper,
+    RambollScraper,
+    AITScraper,
+    CSHScraper,
+    IIASAScraper,
+    DTUOracleScraper,
+    SDUOracleScraper,
     GenericHtmlScraper,
     GenericHubScraper,
     GenericJSScraper,
@@ -20,6 +29,7 @@ def get_scraper(source: dict):
     source_type = source.get("source_type", "html")
 
     if org == "KTH":
+    PBLScraper,
         return KTHScraper(source)
     if org == "NTNU":
         return NTNUScraper(source)
@@ -29,6 +39,26 @@ def get_scraper(source: dict):
         return AalborgScraper(source)
     if org == "IAEA":
         return IAEAScraper(source)
+    if org == "OECD IEA":
+        return OECDIEAScraper(source)
+    if org == "RMI":
+        return RMIScraper(source)
+    if org == "Careers@Gov":
+    if org == "Planbureau voor de Leefomgeving":
+        return PBLScraper(source)
+        return CareersGovScraper(source)
+    if org == "Ramboll":
+        return RambollScraper(source)
+    if org == "AIT":
+        return AITScraper(source)
+    if org == "CSH":
+        return CSHScraper(source)
+    if org == "IIASA":
+        return IIASAScraper(source)
+    if org == "DTU":
+        return DTUOracleScraper(source)
+    if org == "SDU":
+        return SDUOracleScraper(source)
 
     if source_type == "html":
         return GenericHtmlScraper(source)

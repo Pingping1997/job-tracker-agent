@@ -3,6 +3,16 @@ from .ntnu import NTNUScraper
 from .chalmers import ChalmersScraper
 from .aalborg import AalborgScraper
 from .iaea import IAEAScraper
+from .oecd_iea import OECDIEAScraper
+from .rmi import RMIScraper
+from .careers_gov import CareersGovScraper
+from .ramboll import RambollScraper
+from .ait import AITScraper
+from .csh import CSHScraper
+from .iiasa import IIASAScraper
+from .pbl import PBLScraper
+from .dtu_oracle import DTUOracleScraper
+from .sdu_oracle import SDUOracleScraper
 from .html_scraper import GenericHtmlScraper
 from .hub_scraper import GenericHubScraper
 from .js_scraper import GenericJSScraper
